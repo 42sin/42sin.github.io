@@ -70,7 +70,7 @@ content:
         quote: >
           As beautiful as a shell
         description: |
-          The first group project during my time at 42, as well as the first huge project that we had to handle. This was by far my favourite project during the curriculum and the one that teached me the most.
+          The first group project during my time at 42, as well as the first huge project that we had to handle. This was by far my favourite project during the curriculum and the one that teached me the most. I gained knowledge about: how the CPU works in general, memory management, algorithms, general use of C, data structures and more.
       - layout: top-middle
         title: IRC Server in C++
         link: github.com/42sin/ft_irc
@@ -84,14 +84,14 @@ content:
         description: |
           This was one of the first big projects in C++. It gave me an opportunity to enhance my skills in object-oriented programming, C++ and things about networking/server in general.
       - layout: top-middle
-        title: Ray-Tracing inspired by Wolfenstein 3D
+        title: Graphics project inspired by Wolfenstein 3D
         link: github.com/42sin/cub3d
         additional_links:
           - title: 42sin/cub3d
             icon: fab fa-github
             url: github.com/42sin/cub3d
         quote: >
-          cub3D
+          Exploring ray-tracing in C
         description: |
           The second group project and the last project that was in pure C. It allowed me to work with an extern library for the first time, teached me more about algorithms and how mathematics can help when working with graphical projects.
 
