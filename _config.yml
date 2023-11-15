@@ -113,7 +113,7 @@ content:
           A challenging new approach of learning Computer Science. The main languages learned are C/C++ and JavaScript but we also learned a lot about system administration.
 
   - title: Languages
-    layout: text
+    layout: list
     content:
       - layout: top-middle
         title: German
