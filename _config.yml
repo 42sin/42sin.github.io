@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   My primary expertise lies in <mark>C/C++</mark>, but I've also delved into diverse technologies such as:
 
-  <mark>JavaScript</mark>,<mark>NestJS</mark>,<mark>AngularJS</mark>,<mark>Docker</mark>,<mark>Docker</mark>,<mark>Bash</mark> and system administration in general.
+  <mark>JavaScript</mark>,<mark>NestJS</mark>,<mark>AngularJS</mark>,<mark>Docker</mark>,<mark>Bash</mark> and system administration in general.
 
   Through these experiences, I've honed my technological skills and am now ready for the exciting challenges the business world has to offer.
 
@@ -101,7 +101,7 @@ content:
       - layout: left
         title: Christiane-Herzog-Gymnasium
         caption: Heilbronn, 2017 - 2020
-        sub_title: Abitur/high school graduation
+        sub_title: Abitur / High school graduation
         description: | # this will include new lines to allow paragraphs
           This was my first in-depth contact with computer science, we learned Java and I really enjoyed it.
           It was my best subject with mathematics.
