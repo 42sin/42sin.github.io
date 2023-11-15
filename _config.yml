@@ -114,10 +114,16 @@ content:
 
   - title: Languages
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      - German - Native
-      - English - full professional proficiency (C1)
-      - Turkish - fluently (B2)
+    content:
+      - layout: top-middle
+        title: German
+        sub_title: Native
+      - layout: top-middle
+        title: English
+        sub_title: Full professional proficiency (C1)
+      - layout: top-middle
+        title: Turkish
+        sub_title: Fluently (B2)
 
 # Footer
 footer_show_references: true
