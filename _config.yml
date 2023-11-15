@@ -54,12 +54,23 @@ about_content: | # this will include new lines to allow paragraphs
 
   <mark>JavaScript</mark>,<mark>NestJS</mark>,<mark>AngularJS</mark>,<mark>Docker</mark>,<mark>Docker</mark>,<mark>Bash</mark> and system administration in general.
 
-  Through these experiences, I've honed my technological skills and am now ready for a jumpstart into the business world.
+  Through these experiences, I've honed my technological skills and am now ready for the exciting challenges the business world has to offer.
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: top-middle
+        title: My own bash-like Shell
+        link: github.com/42sin/minishell
+        additional_links:
+          - title: 42sin/minishell
+            icon: fab fa-github
+            url: github.com/42sin/minishell
+        quote: >
+          As beautiful as a shell
+        description: |
+          The first group project during my time at 42, as well as the first huge project that we had to handle. This was by far my favourite project during the curriculum and the one that teached me the most.
       - layout: top-middle
         title: IRC Server in C++
         link: github.com/42sin/ft_irc
@@ -72,9 +83,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Based on the RFC 2812
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          This was one of the first big projects in C++. It gave me an opportunity to enhance my skills in object-oriented programming, C++ and things about networking/server in general.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
