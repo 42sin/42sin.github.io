@@ -83,18 +83,6 @@ content:
           Based on the RFC 2812
         description: |
           This was one of the first big projects in C++. It gave me an opportunity to enhance my skills in object-oriented programming, C++ and things about networking/server in general.
-     - layout: top-middle
-        title: Graphic design project inspired by Wolfenstein 3D
-        link: github.com/42sin/cub3d
-        # link_text: Project Website
-        additional_links:
-          - title:  42sin/cub3d
-            icon: fab fa-github
-            url: github.com/42sin/cub3d
-        quote: >
-          Exploring ray-casting
-        description: |
-          The second group project and the last project that was in pure C. It allowed me to work with an extern library for the first time, teached me more about algorithms and how mathematics can help when working with graphical projects.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
