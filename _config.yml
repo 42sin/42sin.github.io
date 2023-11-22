@@ -71,7 +71,9 @@ content:
         quote: >
           Full-Stack Web Application
         description: |
-          The last project of the 42 curriculum, a group project of 5 people, working with TypeScript and different frameworks. I learned a lot about web development and worked with a front-end/back-end for the first time. Personally I liked the back-end more and coming from C I think thats reasonable, but I also had to work on the front-end from time to time for different features especially when working on the Chat feature to make sure everything I did in the back-end was getting synchronized in the front-end.
+          <p align="center">
+            The last project of the 42 curriculum, a group project of 5 people, working with TypeScript and different frameworks. I learned a lot about web development and worked with a front-end/back-end for the first time. Personally I liked the back-end more and coming from C I think thats reasonable, but I also had to work on the front-end from time to time for different features especially when working on the Chat feature to make sure everything I did in the back-end was getting synchronized in the front-end.
+          </p>
       - layout: top-middle
         title: My own bash-like Shell
         link: github.com/42sin/minishell
@@ -82,7 +84,9 @@ content:
         quote: >
           As beautiful as a shell
         description: |
-          The first group project during my time at 42, as well as the first huge project that we had to handle. This was by far my favourite project during the curriculum and the one that teached me the most. I gained knowledge about: how the CPU works in general, memory management, algorithms, general use of C, data structures and more.
+          <p align="center">
+            The first group project during my time at 42, as well as the first huge project that we had to handle. This was by far my favourite project during the curriculum and the one that teached me the most. I gained knowledge about: how the CPU works in general, memory management, algorithms, general use of C, data structures and more.
+          </p>
       - layout: top-middle
         title: IRC Server in C++
         link: github.com/42sin/ft_irc
@@ -94,7 +98,9 @@ content:
         quote: >
           Based on the RFC 2812
         description: |
-          This was one of the first big projects in C++. It gave me an opportunity to enhance my skills in object-oriented programming, C++ and things about networking/server in general.
+          <p align="center">
+            This was one of the first big projects in C++. It gave me an opportunity to enhance my skills in object-oriented programming, C++ and things about networking/server in general.
+          </p>
       - layout: top-middle
         title: Graphics project inspired by Wolfenstein 3D
         link: github.com/42sin/cub3d
