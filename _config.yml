@@ -47,12 +47,13 @@ linkedin_username: ersin-özben-789265273
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hey, my name's Ersin and I'm a Junior Software Developer with a passion for back-end development.
+  Hey, my name's Ersin and I'm a Junior Software Developer with a passion for everything back-end related.
   At 22, I recently completed the Core Curriculum at [42 Heilbronn](https://www.42heilbronn.de), showing my commitment to continous learning and growth in this field.
 
   My primary expertise lies in <mark>C/C++</mark>, but I've also delved into diverse technologies such as:
 
   <mark>JavaScript</mark>,<mark>NestJS</mark>,<mark>AngularJS</mark>,<mark>Docker</mark>,<mark>Bash</mark> and system administration in general.
+  I'm currently learning <mark>Python</mark>.
 
   Through these experiences, I've honed my technological skills and am now ready for the exciting challenges the business world has to offer.
 
@@ -60,6 +61,17 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: top-middle
+        title: Ping Pong Online
+        link: github.com/42sin/ft_transcendence
+        additional_links:
+          - title: 42sin/ft_transcendence
+            icon: fab fa-github
+            url: github.com/42sin/ft_transcendence
+        quote: >
+          Full-Stack Web Application
+        description: |
+          The last project of the 42 curriculum, a group project of 5 people, working with TypeScript and different frameworks. I learned a lot about web development and worked with a front-end/back-end for the first time. Personally I liked the back-end more and coming from C I think thats reasonable, but I also had to work on the front-end from time to time for different features especially when working on the Chat feature to make sure everything I did in the back-end was getting synchronized in the front-end.
       - layout: top-middle
         title: My own bash-like Shell
         link: github.com/42sin/minishell
